@@ -3,8 +3,13 @@ This code challenge tests your skills in react.js (using Typescript, Javascript)
 
 1.- login in to the api with the provided credentials
 
-2.- Access the API, and implement the following methods
+2.- Access the API, and implement the following methods,  
 
+- Authentication
+- *get user reports*.
+- logoff
+
+Credential will be shared with candidates.
 
 
 This challenge already includes an API response. It is not required or expected for you to make any changes to this interaction.
