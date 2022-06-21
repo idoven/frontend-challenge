@@ -1,5 +1,5 @@
 # React Coding Challenge
-This code challenge tests your skills in react.js (using Typescript, Javascript), testing and modular design. The purpose of the application is to correctly displaying in a graphical interface and Electrocardiogram (ECG). 
+This code challenge tests your skills in react.js (using Typescript, Javascript), testing and modular design. The purpose of the application is to correctly displaying in a graphical interface and Electrocardiogram (ECG).  Yo can find the example file you need to work with in the data directory. 
 
 We are looking for the challenge participant to read the file in data, that represent a long ECG recording, and show in a human scale way in the screen of the device. 
 
