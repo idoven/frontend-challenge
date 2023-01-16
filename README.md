@@ -14,7 +14,7 @@ We recomend to:
 
 - Use material ui components and styled-component styles
 
-- Write meaninful and useful unit tests. jest is already included in the project
+- Write meaninful and useful unit tests. You can use jest.
 
 - Use functional components
 
