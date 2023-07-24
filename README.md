@@ -1,31 +1,32 @@
 # React Coding Challenge
-This code challenge tests your skills in react.js (using Typescript, Javascript), testing and modular design. The purpose of the application is to correctly displaying in a graphical interface and Electrocardiogram (ECG).  Yo can find the example file you need to work with in the data directory. 
 
-We are looking for the challenge participant to read the file in data, that represent a long ECG recording, and show in a human scale way in the screen of the device. 
+This code challenge is designed to test your skills in coding, problem solving, designing modular code and writing unit tests. It also aims at assessing your knowledge of React.
 
-The user has to be able to navigate across the file, going backware and fordware, do zoom, and select and area to zoom to. 
+You are asked to develop a web application. The purpose of the application is to visualise an Electrocardiogram (ECG) in a graphical interface. The ECG to display is contained in a file in the data directory.
 
-And example image of the expected results is like this
+The challenge participant should read the file, which contains a long ECG recording, and show the signal in a user friendly way. In addition, the user shall be able to navigate across the signal, going backward and fordward, zoom in and out, with the ability to select the area to zoom in. 
+
+Here is an example image of the expected result
 
 
 ![ECG](images/Screenshot%20from%202022-06-21%2006-32-14.png)
 
-We recomend to:
+For the implementation, we ask the following:
 
-- Use material ui components and styled-component styles
+- Add a header to the web page which says "Idoven.ai Coding Challenge"
 
-- Write meaninful and useful unit tests. You can use jest.
+- Use Material UI https://mui.com/
 
-- Use functional components
-
-- Improve code structure. Your implementation should be more like how you do it for any production grade application development
-
-- Define Typescript where necessary
+- Use React function components
 
 - Use React context API and hooks to showcase your understanding of these React features
 
+- Write meaninful and useful unit tests. You can use jest.
+
+- Provide clean code and structure. Your implementation should be more like how you do it for any production grade application development
+
+- (bonus) Define Typescript where necessary
+
 - Pay attention to performance of your page rendering
 
-- "Idoven.ai Coding Challenge" is part of the design. Make sure that you dont miss that header
-
-Applicants are provided this challenge with nan expextation of deadline. Please take the time you need to complete the challenge to the best of your ability within the allowed 7 days. Please submit your code either via Github or Gitlab
+Please take the time you need to complete the challenge to the best of your ability within the allowed 7 days. Please submit your code either via Github or Gitlab
